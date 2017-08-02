@@ -1,2 +1,1 @@
-# knnclassifier
-Image classification using knn
+# Image Classification using knn and cifar-10 dataset
